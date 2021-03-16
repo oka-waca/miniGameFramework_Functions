@@ -1,0 +1,1 @@
+say map1init
